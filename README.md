@@ -1,12 +1,14 @@
 ### Hello there! 👋
 
-My name is Garret. I am a cybersecurity professional & educator that finds the typical corporate or academic environment a little too stuffy for creative work. I enjoy working on challenges that need cross-disciplinary solutions, as well as teaching and mentoring others.
+My name is Garret. I am a cybersecurity professional that finds the typical corporate or academic environment a little too stuffy for creative work. I enjoy working on challenges that need cross-disciplinary solutions, as well as teaching and mentoring others.
 
-My most recent experience is focused on software/application vulnerability analysis and disclosure, the process of developing security fixes and coordinating release to the public in order to maximize security. At the CERT/CC, I contributed as a co-author to the CERT Guide to Coordinated Vulnerability Disclosure v1.0 and worked with academic researchers, corporations, and governments to coordinate vulnerability response. I also worked on the Executable Code Analysis team where I worked on projects for reverse engineering and analysis tools, including the Ghidra extension Kaiju, as well as Rust language security. My educational background includes applied mathematics and modeling. I excel in cybersecurity roles that utilize my technical experience and diverse interests as well as my interpersonal skills like mentor and educator.
+Check out my full CV at: [gwasser.github.io](https://gwasser.github.io)! The CV has links to certifications, publications, conferences, etc.
 
-I also greatly enjoy college-level teaching opportunities. I have previously taught a variety of classes from programming and basic computer science through calculus and calculus-based general physics, and co-authored several physics lab manuals currently in use at the University of New Orleans. My student reviews were always excellent as I put a lot of effort into supporting students with well-designed lectures, assignments, and being approachable and accessible for office hours and questions.
-
-Check out my full CV at: [gwasser.github.io](https://gwasser.github.io)!
+- 🔭 I’m currently working on: starting a blog
+- 🌱 I’m currently learning: revisiting an old learning compiler project
+- 📫 How to reach me: For professional-related inquries, please contact me via [LinkedIn](https://www.linkedin.com/in/garretwassermann/)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I have a chicken and ducks in my backyard
 
 <!--
 **gwasser/gwasser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
