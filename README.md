@@ -2,9 +2,9 @@
 
 My name is Garret. I am a cybersecurity professional that finds the typical corporate or academic environment a little too stuffy for creative work. I enjoy working on challenges that need cross-disciplinary solutions, as well as teaching and mentoring others.
 
-I previously worked at the CERT/CC at the Software Engineering Institute, Carnegie Mellon University. Prior to that, I taught science, mathematics, and technology courses as an adjunct at several post-secondary colleges and institutes.
+I most recently was a Vulnerability Analyst at the CERT/CC at the Software Engineering Institute, Carnegie Mellon University. I contributed to the CERT Guide to Coordinated Vulnerability Disclosure and CVSSv3.0, among other technical reports, notes, and professional blogs on cybersecurity topics. Prior to that, I taught science, mathematics, and technology courses as an adjunct at several post-secondary colleges and institutes.
 
-Check out my full CV at: [gwasser.github.io](https://gwasser.github.io)! The CV has links to certifications, publications, conferences, etc.
+For more details, check out my full CV at: [gwasser.github.io](https://gwasser.github.io)! The CV has links to certifications, publications, conferences, etc.
 
 - 🔭 I’m currently working on: starting a blog
 - 🌱 I’m currently learning: revisiting an old learning compiler project
