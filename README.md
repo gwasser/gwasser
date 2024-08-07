@@ -10,7 +10,7 @@ For more details, check out my full CV at: [gwasser.github.io](https://gwasser.g
 - 🌱 I’m currently learning: revisiting an old learning compiler project
 - 📫 How to reach me: For professional-related inquries, please contact me via [LinkedIn](https://www.linkedin.com/in/garretwassermann/)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I have a chicken and ducks in my backyard
+- ⚡ Fun fact: I have a chicken and two ducks
 
 <!--
 **gwasser/gwasser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
